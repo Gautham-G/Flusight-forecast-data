@@ -1,3 +1,3 @@
 """
-    Plot aggregated scores
+    Calibration plot as per EpiFNP paper
 """

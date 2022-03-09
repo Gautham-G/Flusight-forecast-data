@@ -78,5 +78,5 @@ for model in models:
 		convert location to region abbreviation
 	"""
 
-
+df.to_csv('./predictions.csv')
 

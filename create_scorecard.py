@@ -1,7 +1,7 @@
 """
     Output: score card containing all models
 	i.e., 
-		model, location (as region abbreviation), metric
+		model, location (as region abbreviation), RMSE, CRSP, CS
 
     if missing value for a model, remove the model
 """
